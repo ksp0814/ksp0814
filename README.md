@@ -31,6 +31,6 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
-### 🚌 Top Langs & Algorithm
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ksp0814&layout=compact&langs_count=8&hide_border=true)](https://github.com/ksp0814)
+  ### 📊 Algorithm
+
   [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtpvlf)](https://solved.ac/profile/rkdtpvlf)
